@@ -1,0 +1,1 @@
+# Used to practice hackerrank or leetcode
