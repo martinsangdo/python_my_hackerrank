@@ -54,3 +54,4 @@ FROM (
     ORDER BY earnings_count DESC
     LIMIT 1
 ) AS most_frequent_earnings;
+/* =========== find median of the field */
